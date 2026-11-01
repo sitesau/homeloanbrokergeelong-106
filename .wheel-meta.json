@@ -1,0 +1,22 @@
+{
+  "wheel_id": 637,
+  "structure": "umbrella",
+  "slug": "homeloanbrokergeelong-106",
+  "project": "mortgage-brokers-geelong-red-flags-c97a4ba7260b239c0ee49d21526e",
+  "parent_t1_ref": "homeloanbrokergeelong-153",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokergeelong.com.au",
+  "primary_kw": "mortgage brokers geelong red flags",
+  "intended_url": "https://sites-e470-2.web.app/mortgage-brokers-geelong-red-flags-c97a4ba7260b239c0ee49d21526e/",
+  "tier": "T2",
+  "writeback_nonce": "3435a86b8f1ac107",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/mortgage-brokers-geelong-f7f97bb9df0c703bc4ceba187da511bcb8a272/",
+      "anchor": "the mortgage brokers geelong overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
